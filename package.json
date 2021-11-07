@@ -1,0 +1,27 @@
+{
+  "name": "project-2021-11-theory-grapql-backend",
+  "version": "1.0.0",
+  "description": "아래 강의에서 진행한 코드 내용\r [강의기반](https://nomadcoders.co/graphql-for-beginners/lobby)",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unchaptered/21-11-theory-grapql-backend.git"
+  },
+  "author": "Unchaptered",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unchaptered/21-11-theory-grapql-backend/issues"
+  },
+  "homepage": "https://github.com/unchaptered/21-11-theory-grapql-backend#readme",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
