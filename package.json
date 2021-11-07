@@ -19,7 +19,8 @@
   },
   "homepage": "https://github.com/unchaptered/21-11-theory-grapql-backend#readme",
   "dependencies": {
-    "graphql-yoga": "^1.18.3"
+    "graphql-yoga": "^1.18.3",
+    "node-fetch": "^3.0.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.14"
